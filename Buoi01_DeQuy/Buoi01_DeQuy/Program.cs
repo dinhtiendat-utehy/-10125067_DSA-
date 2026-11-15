@@ -5,7 +5,7 @@ Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 Console.WriteLine("========================================");
 Console.WriteLine("BUỔI 01 - BÀI TẬP THỰC HÀNH");
-Console.WriteLine("Họ tên: Đinh Tiến Đạt - MSV: ");
+Console.WriteLine("Họ tên: Đinh Tiến Đạt - MSV:10125067 ");
 Console.WriteLine("========================================\n");
 
 Console.WriteLine("=== Bài 1: Tìm Max, Min trong mảng 1000 số ngẫu nhiên ===");
