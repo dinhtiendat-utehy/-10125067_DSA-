@@ -1,6 +1,6 @@
 # Buổi 01 – Đệ quy (Gồm 3 chương: Ôn tập, Thuật toán, Đệ quy)
 
-Họ tên: Lê Trọng Vượng · MSV: 10125337 · Lớp: 10125O.1
+Họ tên: Đinh Tiến Đạt · MSV: 10125067 · Lớp: 10125O.1
 
 ## Danh sách bài đã làm (Tổng cộng 19 bài)
 - **Phần 1 (Chương 1 - Ôn tập C#):** Bài 1 (Max/Min mảng), Bài 2 (FizzBuzz), Bài 3 (Đảo chuỗi), Bài 4 (Sắp xếp nổi bọt), Bài 5 (Fibonacci)
