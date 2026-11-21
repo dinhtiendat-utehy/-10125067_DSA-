@@ -6,7 +6,7 @@ Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 Console.WriteLine("============================================================");
 Console.WriteLine("BUỔI 01 - BÀI TẬP THỰC HÀNH CTDL&GT (GỒM 3 CHƯƠNG)");
-Console.WriteLine("Họ tên: Lê Trọng Vượng - MSV: 10125337 - Lớp: 10125O.1");
+Console.WriteLine("Họ tên: Đinh Tiến Đạt - MSV: 10125067 - Lớp: 10125O.1");
 Console.WriteLine("============================================================\n");
 
 // =========================================================================
