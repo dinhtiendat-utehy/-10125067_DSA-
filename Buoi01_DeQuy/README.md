@@ -1,43 +1,19 @@
-Buổi 01 – Đệ quy (Gồm 3 chương: Ôn tập, Thuật toán, Đệ quy)
+# Buổi 01 – Đệ quy (Gồm 3 chương: Ôn tập, Thuật toán, Đệ quy)
+
 Họ tên: Lê Trọng Vượng · MSV: 10125337 · Lớp: 10125O.1
 
-Danh sách bài đã làm (Tổng cộng 19 bài)
-Phần 1 (Chương 1 - Ôn tập C#): Bài 1 (Max/Min mảng), Bài 2 (FizzBuzz), Bài 3 (Đảo chuỗi), Bài 4 (Sắp xếp nổi bọt), Bài 5 (Fibonacci)
-Phần 2 (Chương 2 - Thuật toán & Tháp Hà Nội): Bài 1 (Tháp Hà Nội), Bài 2 (Tìm kiếm nhị phân & tuần tự), Bài 3 (Kiểm tra SNT), Bài 4 & 6 (So sánh thời gian 5 thuật toán sắp xếp), Bài 5 (Các giải thuật Fibonacci)
-Phần 3 (Chương 3 - Các bài toán Đệ quy kinh điển): Bài 1 (
-S
-(
-n
-)
-=
-∑
-i
-), Bài 2 (
-S
-(
-n
-)
-=
-∑
-i
-2
-), Bài 3 (
-S
-(
-n
-)
-=
-∑
-1
-/
-i
-), Bài 4 (Lũy thừa 
-x
-n
-), Bài 5 (Ước lẻ lớn nhất), Bài 6 (UCLN Euclid), Bài 7 (Đếm chữ số), Bài 8 (Căn bậc hai lồng nhau)
-Cách chạy
+## Danh sách bài đã làm (Tổng cộng 19 bài)
+- **Phần 1 (Chương 1 - Ôn tập C#):** Bài 1 (Max/Min mảng), Bài 2 (FizzBuzz), Bài 3 (Đảo chuỗi), Bài 4 (Sắp xếp nổi bọt), Bài 5 (Fibonacci)
+- **Phần 2 (Chương 2 - Thuật toán & Tháp Hà Nội):** Bài 1 (Tháp Hà Nội), Bài 2 (Tìm kiếm nhị phân & tuần tự), Bài 3 (Kiểm tra SNT), Bài 4 & 6 (So sánh thời gian 5 thuật toán sắp xếp), Bài 5 (Các giải thuật Fibonacci)
+- **Phần 3 (Chương 3 - Các bài toán Đệ quy kinh điển):** Bài 1 ($S(n) = \sum i$), Bài 2 ($S(n) = \sum i^2$), Bài 3 ($S(n) = \sum 1/i$), Bài 4 (Lũy thừa $x^n$), Bài 5 (Ước lẻ lớn nhất), Bài 6 (UCLN Euclid), Bài 7 (Đếm chữ số), Bài 8 (Căn bậc hai lồng nhau)
+
+## Cách chạy
+```
 dotnet run --project Buoi01_DeQuy
-Kết quả chạy
+```
+
+## Kết quả chạy
+```
 ============================================================
 BUỔI 01 - BÀI TẬP THỰC HÀNH CTDL&GT (GỒM 3 CHƯƠNG)
 Họ tên: Lê Trọng Vượng - MSV: 10125337 - Lớp: 10125O.1
